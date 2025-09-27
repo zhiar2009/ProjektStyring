@@ -1,2 +1,0 @@
-# ProjektStyring
-projektledelse
